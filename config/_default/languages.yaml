@@ -2,10 +2,10 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
-  title: "Site Title"
+  copyright: "Copyright &copy; {{< current_year >}} CEV - UNA. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  title: "CEV - UNA"
   params:
-    description: "Site Description"
+    description: "Centro de Estudiantes de Veterinaria"
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
@@ -64,9 +64,9 @@ es:
   languageName: Spanish
   contentDir: content/es
   weight: 2
-  title: "Título del Sitio"
+  title: "CEV - UNA"
   params:
-    description: "Descripción del Sitio"
+    description: "Centro de Estudiantes de Veterinaria"
   menu:
     main:
     - identifier: "about"

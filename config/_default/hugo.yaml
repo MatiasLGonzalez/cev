@@ -2,9 +2,9 @@
 # Your theme name
 theme: "dot-org-hugo-theme"
 # Title of your website (required).
-title: "Dot Org Theme Demo"
+title: "CEV- UNA"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone: "America/Los_Angeles"
+timeZone: "America/Asuncion"
 # Defines the minimum amount of words to reddened in a summary
 summaryLength: 50
 
@@ -14,7 +14,7 @@ hasCJKLanguage: true
 # Set default content directory for multilingual
 contentDir: content/en/
 # Set fallback if international version is not available
-defaultContentLanguage: en
+defaultContentLanguage: es
 # Set the default language as the root rather than in folder i.e. don't use /en/
 defaultContentLanguageInSubdir: false
 

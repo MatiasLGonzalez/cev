@@ -1,8 +1,8 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/img/logo-b.svg"
-logo_on_black: "/img/logo-w.svg"
+logo_on_white: "/img/logo-w.png"
+logo_on_black: "/img/logo-b.png"
 custom_js: []
 custom_css: []
 
@@ -11,19 +11,16 @@ custom_css: []
 ### default social share image (can also be set per lang) ###
 images: ["/img/social-share.png"]
 
-github:
-  repo_url: "https://github.com/username/repo/blob/master"
-  show_edit_link: true
 
 social_links:
   devstats: ""
   discord: ""
   facebook: ""
   flickr: ""
-  github: "https://github.com/cncf/dot-org-hugo-theme"
+  github: ""
   instagram: ""
   landscape: ""
-  linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation"
+  linkedin: ""
   mastodon: ""
   pinterest: ""
   rss: ""
