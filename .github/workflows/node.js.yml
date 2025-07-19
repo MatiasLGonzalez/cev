@@ -36,7 +36,7 @@ jobs:
     - run: npm run build --if-present
         # ← upload your built static files here
     - name: Upload Pages Artifact
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v3
       with:
         # adjust this to your actual output folder
         path: ./build
