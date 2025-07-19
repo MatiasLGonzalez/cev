@@ -1,0 +1,37 @@
+######################## custom scripts & styles ####################
+
+# Add custom assets relative to /static or via https
+logo_on_white: "/img/logo-w.png"
+logo_on_black: "/img/logo-b.png"
+custom_js: []
+custom_css: []
+
+######################## custom config ####################
+
+### default social share image (can also be set per lang) ###
+images: ["/img/social-share.png"]
+
+
+social_links:
+  devstats: ""
+  discord: ""
+  facebook: ""
+  flickr: ""
+  github: ""
+  instagram: ""
+  landscape: ""
+  linkedin: ""
+  mastodon: ""
+  pinterest: ""
+  rss: ""
+  slack: ""
+  stackoverflow: ""
+  threads: ""
+  twitter: ""
+  x: ""
+  youtube: ""
+
+# Makes the header sticky on tall screens
+sticky_header: true
+# Enable search in header UI
+show_search: true
