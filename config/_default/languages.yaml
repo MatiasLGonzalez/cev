@@ -63,7 +63,8 @@
 es:
   languageName: Spanish
   contentDir: content/es
-  weight: 2
+  weight: 1
+  copyright: "Copyright &copy; {{< current_year >}} CEV - UNA. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "CEV - UNA"
   params:
     description: "Centro de Estudiantes de Veterinaria"
