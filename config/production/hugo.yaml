@@ -1,6 +1,6 @@
 ######################## production configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL: https://ideal-palm-tree-9jxww6w4vx43xwq7-1313.app.github.dev
+baseURL: https://matiaslgonzalez.github.io/cev
 googleAnalytics:
 enableRobotsTXT: true
 build:
